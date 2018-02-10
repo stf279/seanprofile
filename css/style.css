@@ -1,0 +1,9 @@
+body {
+    background-color: palegoldenrod;
+    color: black;
+}
+
+.halfer{
+    float: left;
+    width: 49%;
+}
